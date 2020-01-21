@@ -14,6 +14,7 @@ require (
 	github.com/AppsFlyer/go-sundheit v0.1.1
 	github.com/ThreeDotsLabs/watermill v1.1.0
 	github.com/cloudflare/tableflip v1.0.0
+	github.com/go-bdd/gobdd v0.5.0
 	github.com/go-kit/kit v0.9.0
 	github.com/go-sql-driver/mysql v1.5.0
 	github.com/golang/protobuf v1.3.2
